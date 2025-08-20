@@ -1,0 +1,842 @@
+[
+  {
+    "timestamp": 1.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 99.79366166832548,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 2.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 99.79366166832548,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 3.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.0,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 4.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.0,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 5.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.18370129345134,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 6.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.18370129345134,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 7.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.09758420849491,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 8.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 99.92379210424745,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 9.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.12925281464426,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 10.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.28299269139886,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 11.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.28299269139886,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 12.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.28299269139886,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 13.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.2054607103968,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 14.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.0,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 15.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.23981272342468,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 16.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.23981272342468,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 17.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.24490636171234,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 18.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.24490636171234,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 19.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 99.91387395762004,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 20.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 99.91387395762004,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 21.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 99.72372282922326,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 22.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.0159736472627,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 23.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.0159736472627,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 24.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.22749552269956,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 25.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.22749552269956,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 26.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.09084745099244,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 27.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.22399571379592,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 28.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.23524795244614,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 29.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.23524795244614,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 30.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.23524795244614,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 31.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.23524795244614,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 32.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.23524795244614,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 33.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.10209968964267,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 34.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.10209968964267,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 35.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.10209968964267,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 36.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.028149534464,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 37.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.25761573110267,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 38.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.10209968964267,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 39.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 99.93701281900981,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 40.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 99.93701281900981,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 41.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 99.94560609914757,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 42.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 99.8435064095049,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 43.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.0,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 44.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 99.875,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 45.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.02645954509683,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 46.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.24241097283051,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 47.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.07180701437042,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 48.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.1349161770373,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 49.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.26870111334539,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 50.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.26870111334539,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 51.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.26870111334539,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 52.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.31870111334538,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 53.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.39662607394204,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 54.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.33435055667269,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 55.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.31870111334538,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 56.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.24073158611756,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 57.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.24073158611756,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 58.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.31870111334538,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 59.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.33435055667269,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 60.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.33435055667269,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 61.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.31870111334538,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 62.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.33435055667269,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 63.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.33435055667269,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 64.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.31870111334538,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 65.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.31870111334538,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 66.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.24891926443641,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 67.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.1605674178094,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 68.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.15128241895039,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 69.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.09745825514253,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 70.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.18929476652536,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 71.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.21294343974236,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 72.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.18929476652536,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 73.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.3735149826964,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 74.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.3735149826964,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 75.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.3735149826964,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 76.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.3735149826964,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 77.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.3735149826964,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 78.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.36175749134821,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 79.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.20145954509684,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 80.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.33387100982833,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 81.0,
+    "inventory": 0,
+    "cash": 0.0,
+    "mid_price": 100.20145954509684,
+    "pnl": 0.0
+  },
+  {
+    "timestamp": 82.0,
+    "inventory": 0,
+    "cash": -0.5424529461074599,
+    "mid_price": 100.35479558782438,
+    "pnl": -0.5424529461074599
+  },
+  {
+    "timestamp": 83.0,
+    "inventory": 0,
+    "cash": -0.5424529461074599,
+    "mid_price": 100.20145954509684,
+    "pnl": -0.5424529461074599
+  },
+  {
+    "timestamp": 84.0,
+    "inventory": 0,
+    "cash": -0.5424529461074599,
+    "mid_price": 100.06033921788489,
+    "pnl": -0.5424529461074599
+  },
+  {
+    "timestamp": 85.0,
+    "inventory": 0,
+    "cash": -0.5424529461074599,
+    "mid_price": 100.06033921788489,
+    "pnl": -0.5424529461074599
+  },
+  {
+    "timestamp": 86.0,
+    "inventory": 0,
+    "cash": -0.5424529461074599,
+    "mid_price": 100.0640492817305,
+    "pnl": -0.5424529461074599
+  },
+  {
+    "timestamp": 87.0,
+    "inventory": 0,
+    "cash": -0.5424529461074599,
+    "mid_price": 100.0640492817305,
+    "pnl": -0.5424529461074599
+  },
+  {
+    "timestamp": 88.0,
+    "inventory": 0,
+    "cash": -0.5424529461074599,
+    "mid_price": 100.06033921788489,
+    "pnl": -0.5424529461074599
+  },
+  {
+    "timestamp": 89.0,
+    "inventory": 0,
+    "cash": -0.5424529461074599,
+    "mid_price": 100.0640492817305,
+    "pnl": -0.5424529461074599
+  },
+  {
+    "timestamp": 90.0,
+    "inventory": 0,
+    "cash": -0.5424529461074599,
+    "mid_price": 100.32300814790354,
+    "pnl": -0.5424529461074599
+  },
+  {
+    "timestamp": 91.0,
+    "inventory": 4,
+    "cash": -402.9366147657202,
+    "mid_price": 99.85145954509684,
+    "pnl": -3.5307765853328306
+  },
+  {
+    "timestamp": 92.0,
+    "inventory": 4,
+    "cash": -402.9366147657202,
+    "mid_price": 99.73483717264443,
+    "pnl": -3.997266075142477
+  },
+  {
+    "timestamp": 93.0,
+    "inventory": 4,
+    "cash": -402.9366147657202,
+    "mid_price": 99.73483717264443,
+    "pnl": -3.997266075142477
+  },
+  {
+    "timestamp": 94.0,
+    "inventory": 10,
+    "cash": -1005.5366147657203,
+    "mid_price": 100.1,
+    "pnl": -4.536614765720287
+  },
+  {
+    "timestamp": 95.0,
+    "inventory": 10,
+    "cash": -1005.5366147657203,
+    "mid_price": 99.8591456330092,
+    "pnl": -6.945158435628173
+  },
+  {
+    "timestamp": 96.0,
+    "inventory": 10,
+    "cash": -1005.5366147657203,
+    "mid_price": 99.96593578317552,
+    "pnl": -5.8772569339651
+  },
+  {
+    "timestamp": 97.0,
+    "inventory": 16,
+    "cash": -1608.5366147657203,
+    "mid_price": 100.1,
+    "pnl": -6.936614765720378
+  },
+  {
+    "timestamp": 98.0,
+    "inventory": 16,
+    "cash": -1608.5366147657203,
+    "mid_price": 100.1,
+    "pnl": -6.936614765720378
+  },
+  {
+    "timestamp": 99.0,
+    "inventory": 16,
+    "cash": -1608.5366147657203,
+    "mid_price": 100.1,
+    "pnl": -6.936614765720378
+  },
+  {
+    "timestamp": 100.0,
+    "inventory": 22,
+    "cash": -2211.5366147657205,
+    "mid_price": 100.1,
+    "pnl": -9.336614765720697
+  },
+  {
+    "timestamp": 101.0,
+    "inventory": 22,
+    "cash": -2211.5366147657205,
+    "mid_price": 99.866590625048,
+    "pnl": -14.471621014664379
+  },
+  {
+    "timestamp": 102.0,
+    "inventory": 22,
+    "cash": -2211.5366147657205,
+    "mid_price": 99.866590625048,
+    "pnl": -14.471621014664379
+  },
+  {
+    "timestamp": 103.0,
+    "inventory": 28,
+    "cash": -2812.03522432164,
+    "mid_price": 100.1,
+    "pnl": -9.23522432164009
+  },
+  {
+    "timestamp": 104.0,
+    "inventory": 28,
+    "cash": -2812.03522432164,
+    "mid_price": 100.39447664977902,
+    "pnl": -0.989878127827069
+  },
+  {
+    "timestamp": 105.0,
+    "inventory": 28,
+    "cash": -2812.03522432164,
+    "mid_price": 100.39447664977902,
+    "pnl": -0.989878127827069
+  },
+  {
+    "timestamp": 106.0,
+    "inventory": 34,
+    "cash": -3413.8112285363077,
+    "mid_price": 100.39447664977902,
+    "pnl": -0.3990224438207406
+  },
+  {
+    "timestamp": 107.0,
+    "inventory": 34,
+    "cash": -3413.8112285363077,
+    "mid_price": 100.39447664977902,
+    "pnl": -0.3990224438207406
+  },
+  {
+    "timestamp": 108.0,
+    "inventory": 34,
+    "cash": -3413.8112285363077,
+    "mid_price": 100.39447664977902,
+    "pnl": -0.3990224438207406
+  },
+  {
+    "timestamp": 109.0,
+    "inventory": 40,
+    "cash": -4016.8112285363077,
+    "mid_price": 100.39447664977902,
+    "pnl": -1.0321625451470027
+  },
+  {
+    "timestamp": 110.0,
+    "inventory": 40,
+    "cash": -4016.8112285363077,
+    "mid_price": 100.39447664977902,
+    "pnl": -1.0321625451470027
+  },
+  {
+    "timestamp": 111.0,
+    "inventory": 40,
+    "cash": -4016.8112285363077,
+    "mid_price": 99.9923134328346,
+    "pnl": -17.11869122292319
+  },
+  {
+    "timestamp": 112.0,
+    "inventory": 40,
+    "cash": -4016.8112285363077,
+    "mid_price": 99.9923134328346,
+    "pnl": -17.11869122292319
+  },
+  {
+    "timestamp": 113.0,
+    "inventory": 40,
+    "cash": -4016.8112285363077,
+    "mid_price": 100.22353107855918,
+    "pnl": -7.869985393940624
+  },
+  {
+    "timestamp": 114.0,
+    "inventory": 40,
+    "cash": -4016.8112285363077,
+    "mid_price": 100.42453296981442,
+    "pnl": 0.17009025626930452
+  },
+  {
+    "timestamp": 115.0,
+    "inventory": 40,
+    "cash": -4016.8112285363077,
+    "mid_price": 100.19478966602502,
+    "pnl": -9.019641895306904
+  },
+  {
+    "timestamp": 116.0,
+    "inventory": 40,
+    "cash": -4016.8112285363077,
+    "mid_price": 99.90366385158842,
+    "pnl": -20.664674472770912
+  },
+  {
+    "timestamp": 117.0,
+    "inventory": 40,
+    "cash": -4016.8112285363077,
+    "mid_price": 99.7717796906128,
+    "pnl": -25.940040911795677
+  },
+  {
+    "timestamp": 118.0,
+    "inventory": 40,
+    "cash": -4016.8112285363077,
+    "mid_price": 99.70210726999007,
+    "pnl": -28.726937736705167
+  },
+  {
+    "timestamp": 119.0,
+    "inventory": 40,
+    "cash": -4016.8112285363077,
+    "mid_price": 99.82416207434522,
+    "pnl": -23.8447455624987
+  },
+  {
+    "timestamp": 120.0,
+    "inventory": 40,
+    "cash": -4016.8112285363077,
+    "mid_price": 99.7717796906128,
+    "pnl": -25.940040911795677
+  }
+]
